@@ -8,7 +8,7 @@ In project released:
 1. Menu;
 2. Pause;
 3. Design;
-4. Winner;
+4. Winner.
 
 ------
 Start screen
