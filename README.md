@@ -20,7 +20,7 @@ Pause screen
 ![Pause screen](https://preview.ibb.co/bJPDrF/Screenshot_5.png)
 
 ---
-**License**
+**License MIT**
 ===
 Copyright (c) 2017 Vladislav "Ladone" Pototskiy
 
